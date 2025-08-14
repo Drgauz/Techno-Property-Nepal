@@ -1,0 +1,5 @@
+
+101, Kathmandu, North, 4, 50000, Available
+102, Biratnagar, West, 5, 60000,Available
+103, Pokhara, East, 9, 100000, Available
+104, Lumbini, South, 3, 35000, Not Available
